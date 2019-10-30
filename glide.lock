@@ -1,0 +1,14 @@
+hash: 7bce1390c88f3353944f4b12646ff6f61c92e520f79fc97dbe0e8669f0f3d829
+updated: 2019-10-30T12:28:48.973739894+03:00
+imports:
+- name: github.com/konsorten/go-windows-terminal-sequences
+  version: f55edac94c9bbba5d6182a4be46d86a2c9b5b50e
+- name: github.com/Sirupsen/logrus
+  version: 839c75faf7f98a33d445d181f3018b5c3409a45e
+- name: github.com/takama/router
+  version: 0db9d28f71e2a29c7b82ea6a0851bb0dedeaf744
+- name: golang.org/x/sys
+  version: f43be2a4598cf3a47be9f94f0c28197ed9eae611
+  subpackages:
+  - unix
+testImports: []
